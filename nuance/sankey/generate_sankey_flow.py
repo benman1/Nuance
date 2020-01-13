@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import json
 import jinja2
 import os
-import sys
 
 
 def _get_node_names(df):

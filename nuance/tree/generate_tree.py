@@ -378,7 +378,12 @@ def generate_sankey_tree(
     tree_rules_clean = _clean_rules(tree_rules, tree_info)
 
     # get template
-    temp = open('src/sankey_tree_template.html').read()
+    temp = open(
+        os.path.join(
+            os.path.dirname(__file__),
+            'src/sankey_tree_template.html'
+        )
+    ).read()
     template = jinja2.Template(temp)
 
     # create the output root if it is not exits
