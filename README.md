@@ -3,25 +3,17 @@ Nuance
 ======
 
 
-.. image:: https://img.shields.io/pypi/v/nuance.svg
-        :target: https://pypi.python.org/pypi/nuance
+[<img src="https://img.shields.io/pypi/v/nuance.svg">](https://pypi.python.org/pypi/nuance)
 
-.. image:: https://img.shields.io/travis/SauceCat/nuance.svg
-        :target: https://travis-ci.org/SauceCat/nuance
+[<img src="https://img.shields.io/travis/SauceCat/nuance.svg">](https://travis-ci.org/SauceCat/nuance)
 
-.. image:: https://readthedocs.org/projects/nuance/badge/?version=latest
-        :target: https://nuance.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
+[<img src="https://readthedocs.org/projects/nuance/badge/?version=latest">](https://nuance.readthedocs.io/en/latest/?badge=latest)
 
 
 Visualization ideas for data science
 
-
 * Free software: MIT license
 * Documentation: https://nuance.readthedocs.io.
-
 
 
 # Nuance
