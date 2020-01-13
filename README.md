@@ -1,6 +1,6 @@
-======
-Nuance
-======
+# Nuance
+I use Nuance to curate varied visualization thoughts during my data scientist career.   
+It is not yet a package but a list of small ideas. Welcome to test them out!
 
 
 [<img src="https://img.shields.io/pypi/v/nuance.svg">](https://pypi.python.org/pypi/nuance)
@@ -9,16 +9,11 @@ Nuance
 
 [<img src="https://readthedocs.org/projects/nuance/badge/?version=latest">](https://nuance.readthedocs.io/en/latest/?badge=latest)
 
-
 Visualization ideas for data science
 
 * Free software: MIT license
 * Documentation: https://nuance.readthedocs.io.
 
-
-# Nuance
-I use Nuance to curate varied visualization thoughts during my data scientist career.   
-It is not yet a package but a list of small ideas. Welcome to test them out!
 
 ## Why Nuance?
 **nuance n.**  
